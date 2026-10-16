@@ -173,7 +173,7 @@ The text files shown above are examples of local runtime files, not files includ
 ## License
 
 No license has been specified. Add a `LICENSE` file before distributing the project so users know what permissions and restrictions apply.
-Educational Purposes Only
 ---
 
 **Disclaimer:** This project is provided for authorized debugging and security testing. Users are responsible for ensuring that their use complies with applicable laws, service terms, and account-owner permissions.
+**Educational Purposes Only**
