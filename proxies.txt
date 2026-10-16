@@ -1,0 +1,10 @@
+http://1.2.3.4:8080
+https://1.2.3.4:8080
+socks4://1.2.3.4:1080
+socks4a://1.2.3.4:1080
+socks5://1.2.3.4:1080
+socks5h://1.2.3.4:1080
+1.2.3.4:8080              # defaults to http
+http://user:pass@1.2.3.4:8080
+socks5://user:pass@1.2.3.4:1080
+user:pass@1.2.3.4:8080

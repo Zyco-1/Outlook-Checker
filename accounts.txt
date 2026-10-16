@@ -1,0 +1,10 @@
+account1@outlook.com:password1
+account2@outlook.com:password2
+account3@outlook.com:password3
+.
+.
+.
+.
+.
+.
+and soo on 
